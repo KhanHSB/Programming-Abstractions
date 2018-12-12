@@ -1,8 +1,8 @@
 /*
  * File: grammarsolver.cpp
  * --------------------------
- * Name:
- * Section leader:
+ * Name:Haseeb Khan
+ * Section leader: Chriss Gregg
  * This file contains grammar generating code for CS106B.
  *
  * EXTRA FEATURE: Robust grammar solver (in buildBNF function)
